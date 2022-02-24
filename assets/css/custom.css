@@ -156,6 +156,8 @@ html, body {
     border: 0.2px solid rgba(115, 115, 115, 0.381);
 }
 
-
+.footer .row .col p {
+    width: 65%;
+}
 
 
