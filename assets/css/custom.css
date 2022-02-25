@@ -6,8 +6,9 @@
 html, body {
     max-width: 100%;
     overflow-x: hidden;
+    scroll-behavior: smooth;
 }
-.section-1 {
+#section-1 {
     background: #F1F3FF;
 }
 
