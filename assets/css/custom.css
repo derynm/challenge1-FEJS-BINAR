@@ -161,4 +161,8 @@ html, body {
     width: 65%;
 }
 
+.footer .row a {
+    text-decoration: none;
+    color: black;
+}
 
